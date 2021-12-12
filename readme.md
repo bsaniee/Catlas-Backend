@@ -5,10 +5,9 @@ Catlas backend markdown file.
 Postgres
 SQL
 
-## BACKEND ROUTE TABLE
-| url | method | action |
-|-----|--------|--------|
-| /cats | get | getting all the cats (index)||
-| /cats | post | posting a new cat (create) |
-| /cats/:id | put | updating a cat (update) |
-| /cats/:id | delete | delete the cat (destroy) |
+## BACKEND ROUTES 
+index
+show
+create
+update
+destroy
