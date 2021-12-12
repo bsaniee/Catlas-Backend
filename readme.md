@@ -1,2 +1,6 @@
 ## Catlas Backend
-Catlas backend markdown file
+Catlas backend markdown file.
+
+## Technologies used
+Postgres
+SQL
